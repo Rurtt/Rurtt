@@ -42,7 +42,7 @@ Tools I made because I kept fixing the same things by hand:
 
 - National Software Contest (NSC) 2026 – WordFlow, received 10,000 THB funding
 - Thailand Cyber Top Talent 2026 – 8th place
-- IoTE KMITL 2026 Showcase – RoomRun, Finalist
+- IoTE KMITL 2026 Showcase – RoomRun, Consolation Prize
 - L@UNCHL4B AI-Powered Startup Hackathon – Winner and 10,000 THB
 - SK Robotics Playground 2025 – Gold prize
 - POSN Computer, camp 1
