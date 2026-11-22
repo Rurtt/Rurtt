@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Based%20in-Thailand-1A1A2E?style=for-the-badge" alt="Based in Thailand" />
 </p>
 
-High-school developer and gamer from Thailand. Web apps are home base, but I'll build whatever the problem needs: mobile apps, ESP32 gadgets, games, you name it.
+High-school developer and gamer from Thailand. Mostly Web Apps, but I'll build whatever the problem needs: Mobile apps, ESP32 gadgets, Games, you name it.
 
 I'm really into AI tools. I keep a tab on new ones and keep min-maxing how I use them, down to writing my own skills and guardrails so they make fewer dumb mistakes. They help me move faster, but I still design the system, read the code, and fix what breaks.
 
@@ -41,9 +41,9 @@ Tools I made because I kept fixing the same things by hand:
 
 - National Software Contest (NSC) 2026 – WordFlow, received 10,000 THB funding
 - Thailand Cyber Top Talent 2026 – 8th place
-- IoTE KMITL 2026 Showcase – RoomRun, finalist
-- L@UNCHL4B AI-Powered Startup Hackathon – winner
-- SK Robotics Playground 2025 – gold prize
+- IoTE KMITL 2026 Showcase – RoomRun, Finalist
+- L@UNCHL4B AI-Powered Startup Hackathon – Winner and 10,000 THB
+- SK Robotics Playground 2025 – Hold prize
 - POSN Computer, camp 1
 
 <p align="center">
