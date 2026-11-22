@@ -43,7 +43,7 @@ Tools I made because I kept fixing the same things by hand:
 - Thailand Cyber Top Talent 2026 – 8th place
 - IoTE KMITL 2026 Showcase – RoomRun, Finalist
 - L@UNCHL4B AI-Powered Startup Hackathon – Winner and 10,000 THB
-- SK Robotics Playground 2025 – Hold prize
+- SK Robotics Playground 2025 – Gold prize
 - POSN Computer, camp 1
 
 <p align="center">
