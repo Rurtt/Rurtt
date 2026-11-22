@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-mu-coral-ntej634ejw.vercel.app"><img src="https://img.shields.io/badge/Portfolio-visit-E94560?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://portfolio-pong.vercel.app"><img src="https://img.shields.io/badge/Portfolio-visit-E94560?style=for-the-badge" alt="Portfolio" /></a>
   <img src="https://img.shields.io/badge/Based%20in-Thailand-1A1A2E?style=for-the-badge" alt="Based in Thailand" />
 </p>
 
-High-school developer and gamer from Thailand. Mostly Web Apps, but I'll build whatever the problem needs: Mobile apps, ESP32 gadgets, Games, you name it.
+High-school developer and gamer from Thailand. I'm full stack, but Web Apps and backend are my main thing. Frontend gets done, it's just not where I shine. Beyond that, I'll build whatever the problem needs: Mobile apps, ESP32 gadgets, Games, you name it.
 
 I'm really into AI tools. I keep a tab on new ones and keep min-maxing how I use them, down to writing my own skills and guardrails so they make fewer dumb mistakes. They help me move faster, but I still design the system, read the code, and fix what breaks.
 
@@ -22,7 +22,7 @@ I'm really into AI tools. I keep a tab on new ones and keep min-maxing how I use
 | ✅ | **[CentMe](https://centme.vercel.app)** | Cross-border money transfer settled in test USDC on Avalanche Fuji. 24-hour hackathon, I did the frontend. | TypeScript |
 | ✅ | **[Victor](https://github.com/Rurtt/Victor)** | Thai voice desktop assistant with a POSN mentor mode that gives hints before answers. | Python, Whisper |
 
-More projects on my **[portfolio](https://portfolio-mu-coral-ntej634ejw.vercel.app)**.
+More projects on my **[portfolio](https://portfolio-pong.vercel.app)**.
 
 ### 🤖 AI workflow stuff
 
@@ -30,6 +30,7 @@ Tools I made because I kept fixing the same things by hand:
 
 - **[idea-forge](https://github.com/Rurtt/idea-forge)** – brainstorming skill that maps the problem first and kills weak ideas with hard rules
 - **[I-Got-u](https://github.com/Rurtt/I-Got-u)** – turns repeated agent mistakes into "gotchas" so they don't happen again
+- **[Karpathy Guidelines Upgrade](https://github.com/Rurtt/Andrej-Karpathys-Guidelines-Upgrade)** – Andrej Karpathy's 4 rules for LLM coding, plus 5 more for verifying, debugging and knowing when to stop
 
 ### 🧰 Stack
 
