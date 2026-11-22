@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Based%20in-Thailand-1A1A2E?style=for-the-badge" alt="Based in Thailand" />
 </p>
 
-High-school developer and gamer from Thailand. Web Apps and backend are my main thing, but I'll build whatever the problem needs: Mobile apps, ESP32 gadgets, Games, you name it.
+High-school developer and gamer from Thailand. Web Apps and backend are my main thing, but I'll build whatever the problem needs. Mobile apps, ESP32 gadgets, Games, you name it.
 
 I'm really into AI tools. I keep a tab on new ones and keep min-maxing how I use them, down to writing my own skills and guardrails so they make fewer dumb mistakes. They help me move faster, but I still design the system, read the code, and fix what breaks.
 
